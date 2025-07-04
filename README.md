@@ -11,7 +11,7 @@ From the business intelligence analysis conducted, the following insights, findi
 1. **"Technology"** Product Category had the highest sales with the total sum of **5,984,248.182**. It was closely followed by "Furniture" with **5,178,590.542**, while "Office Supplies" came a distant third with **3,752,762.1**.
 2. By sales volume, the top 3 Regions were **West** (with 3,597,549.276), **Ontario** (with 3,063,212.48) and **Prarie** (with 2,837,304.602) in that order, while the bottom 3 were **Yukon** (with 975,867.371), **Northwest Territories** (with 800,847.3295) and **Nunavut** (with 116,376.4835).
 3. The total sales value of "Appliances" in Ontario alone was **202,346.84**.
-4. From the total sales data of the bottom 10 customers (which summed up to 2,597.028), KMS management may want to consider a more robust discount offer to motivate them to engage in more purchases, thereby boosting company revenue - particularly via turnover.
+4. From the total sales data of the bottom 10 customers (which summed up to 2,597.028 only), KMS management may want to consider a more robust discount offer to motivate them to engage in more purchases, thereby boosting company revenue - particularly via turnover.
 5. The shipping method that cost KMS the most fortune was the **Delivery Truck** mode at 51,971.94.
 6. The **Top 5** most valuable customers KMS had during the period under review were **Emily Phan, Deborah Brumfield, Roy Skaria, Sylvia Foulston and Grant Carroll**. It is not sufficiently clear what products they typically purchased, but the sum total of their patronage is worth 484,392.4865.
 7. **Dennis Kane** is the "Small Business" customer with highest sales - valued at 75,967.5905.
