@@ -5,7 +5,7 @@ The .csv files used for this analysis - as obtained from the Company's database 
 
 The .csv files were imported to **Microsoft SQL Management Studio** which was the tool used for the analysis.
 
-Total number of product data was **8,399**
+Total number of unique product data was **8,399**
 ### Key Insights and Findings
 From the business intelligence analysis conducted, the following insights, findings and recommendations were made:
 1. **"Technology"** Product Category had the highest sales with the total sum of **5,984,248.182**. It was closely followed by "Furniture" with **5,178,590.542**, while "Office Supplies" came a distant third with **3,752,762.1**.
